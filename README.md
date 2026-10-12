@@ -235,6 +235,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://framerusercontent.com/images/0Bw7GwbNXUBxOAp9pyM0VPOlphg.png" height="14" /> [Skyvern](https://github.com/Skyvern-AI/skyvern/tree/main/integrations/mcp) - MCP to let Claude or your own LLM control your browser
 - <img src="https://searx.space/favicon.png" height="14" /> [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) - A Model Context Protocol Server for [SearXNG](https://docs.searxng.org)
 - <img src="https://pragmar.com/media/static/images/mcp-server-webcrawl/favicon.png" height="14" /> [mcp-server-webcrawl](https://github.com/pragmar/mcp-server-webcrawl) - Advanced search and retrieval for web crawler data. Supports WARC, wget, Katana, SiteOne, and InterroBot crawlers.
+- <img src="https://srezai.ru/logo-srez-ai.svg" height="14"/> [srezai](https://github.com/srezai-team/srezai-mcp-web-search) - Web search, page reading as clean Markdown, site maps and crawls, JSON-schema extraction and claim verification with quotes for AI agents (12 tools; remote endpoint with API key, strong Russian-web coverage). Русский: веб-поиск и чтение страниц для ИИ-агентов, 12 инструментов. `npx -y srezai-mcp` (MIT bridge) · [Docs](https://srezai.ru/docs/mcp)
 
 <br />
 
